@@ -69,7 +69,7 @@ class Speaker extends Model
                 ->options(self::QUALIFICATIONS)
                 ->descriptions([
                     'business-leader' => 'Here is a nice long description',
-                    'charisma' => 'This is even more information about why you should pick this one',
+                    'charisma' => 'This is even more informations about why you should pick this one',
                 ])
                 ->columns(3),
         ];
